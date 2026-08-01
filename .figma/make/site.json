@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and achievements with a personalized portfolio website designed for professionals in AI and machine learning, enhancing visibility to potential employers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
